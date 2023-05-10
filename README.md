@@ -5,6 +5,6 @@ As you know, digital image processing is used in many fields of our lives when t
 
 Digital image processing is a process that involves image analysis and restoration. Each image's data is turned into a digital image for processing, and various analysis techniques are developed on those. After this process, it becomes easier to understand, and it is commonly used in computer vision and artificial intelligence projects. 
 
-I used the Digital Image Processing Handbook, whose authors are Rafael C. Gonzalez and Richard E. Woods, in this story. You can reach this link and the applicable Matlab codes are also here. 
+I used the Digital Image Processing Handbook, whose authors are Rafael C. Gonzalez and Richard E. Woods, in this story. You can reach this link (https://drive.google.com/file/d/19jlRL9sda6LgpFSEOnXa1GMzRilTydct/view?usp=share_link) and the applicable Matlab codes are also here. 
 
 See you later. Keep following me.
